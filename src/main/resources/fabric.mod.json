@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "id": "airdash",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "name": "AirDash",
-  "description": "Double jump mod with customizable particle trails!",
+  "description": "Мод на двойной прыжок с настраиваемыми траекториями частиц!",
   "authors": [
     "Kotmir"
   ],
